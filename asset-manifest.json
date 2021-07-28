@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Home/static/css/main.be732f0a.chunk.css",
-    "main.js": "/Home/static/js/main.b47d3f86.chunk.js",
-    "main.js.map": "/Home/static/js/main.b47d3f86.chunk.js.map",
-    "runtime-main.js": "/Home/static/js/runtime-main.7aa512ea.js",
-    "runtime-main.js.map": "/Home/static/js/runtime-main.7aa512ea.js.map",
-    "static/js/2.334fe913.chunk.js": "/Home/static/js/2.334fe913.chunk.js",
-    "static/js/2.334fe913.chunk.js.map": "/Home/static/js/2.334fe913.chunk.js.map",
-    "static/js/3.dce55867.chunk.js": "/Home/static/js/3.dce55867.chunk.js",
-    "static/js/3.dce55867.chunk.js.map": "/Home/static/js/3.dce55867.chunk.js.map",
-    "index.html": "/Home/index.html",
-    "static/css/main.be732f0a.chunk.css.map": "/Home/static/css/main.be732f0a.chunk.css.map",
-    "static/js/2.334fe913.chunk.js.LICENSE.txt": "/Home/static/js/2.334fe913.chunk.js.LICENSE.txt",
-    "static/media/mail-icon.cf6e9da6.svg": "/Home/static/media/mail-icon.cf6e9da6.svg",
-    "static/media/uit-icon.682e9b12.png": "/Home/static/media/uit-icon.682e9b12.png"
+    "main.css": "/static/css/main.be732f0a.chunk.css",
+    "main.js": "/static/js/main.b47d3f86.chunk.js",
+    "main.js.map": "/static/js/main.b47d3f86.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f5a152ea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f5a152ea.js.map",
+    "static/js/2.334fe913.chunk.js": "/static/js/2.334fe913.chunk.js",
+    "static/js/2.334fe913.chunk.js.map": "/static/js/2.334fe913.chunk.js.map",
+    "static/js/3.dce55867.chunk.js": "/static/js/3.dce55867.chunk.js",
+    "static/js/3.dce55867.chunk.js.map": "/static/js/3.dce55867.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.be732f0a.chunk.css.map": "/static/css/main.be732f0a.chunk.css.map",
+    "static/js/2.334fe913.chunk.js.LICENSE.txt": "/static/js/2.334fe913.chunk.js.LICENSE.txt",
+    "static/media/mail-icon.cf6e9da6.svg": "/static/media/mail-icon.cf6e9da6.svg",
+    "static/media/uit-icon.682e9b12.png": "/static/media/uit-icon.682e9b12.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7aa512ea.js",
+    "static/js/runtime-main.f5a152ea.js",
     "static/js/2.334fe913.chunk.js",
     "static/css/main.be732f0a.chunk.css",
     "static/js/main.b47d3f86.chunk.js"
